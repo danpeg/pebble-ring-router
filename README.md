@@ -108,3 +108,7 @@ python3 test_receiver.py
 ```
 
 The tests use a temporary home, fake models, and test secrets. They never touch your real files. The speech test in `test_receiver.py` runs only with `--speech <path to a whisper model>`.
+
+## License
+
+MIT. See `LICENSE`.
