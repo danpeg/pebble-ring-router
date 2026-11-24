@@ -1,0 +1,17 @@
+# Route examples for the ring. Columns: receiver, note, source type. All made up.
+# Your real notes go in ~/.ring-router/route-examples.tsv (routes.py add). Check: python3 routes.py check
+muse	Remind me to water the plants tonight	ring
+muse	We are out of coffee filters	ring
+muse	Add a dentist appointment next Tuesday at nine	ring
+muse	Move my lunch on Friday to one o'clock	ring
+muse	What is on my calendar tomorrow morning?	ring
+muse	Buy a birthday present this weekend	ring
+orchestrator	Check why the login page test failed last night	ring
+orchestrator	Fix the button spacing on the settings page	ring
+orchestrator	What is the status of the search feature?	ring
+orchestrator	Deploy the fix for the slow sign-up form	ring
+orchestrator	The staging server is down, find out why	ring
+orchestrator	Write release notes for the new export button	ring
+architect	Review how the scheduled jobs are set up	ring
+architect	The roles of the agents overlap, make them clear	ring
+architect	There are too many open tasks, the process needs a fix	ring

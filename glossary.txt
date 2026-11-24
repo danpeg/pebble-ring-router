@@ -1,0 +1,14 @@
+# Words that the speech model must know. One term on each line. No private names.
+# Your private list goes in ~/.ring-router/glossary.txt (not in git).
+orchestrator
+architect
+tracker
+pull request
+dashboard
+firmware
+deploy
+release notes
+Claude
+Claude Code
+Tailscale
+Muse
